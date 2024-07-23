@@ -1,2 +1,0 @@
-hello 
-this is the sample file of code deploy in aws
